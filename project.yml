@@ -1,0 +1,38 @@
+---
+settings:
+  name: NetApp Data Services
+  platform: cloud
+  internal:
+    pdf_enabled: false
+    lipi_enabled: true
+  prod:
+    pdf_enabled: false
+    harmony_enabled: false
+    lipi_enabled: false
+  langs: pt-br,us-en,de-de,es-es,fr-fr,it-it,ja-jp,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: Console NetApp
+    url: "../console-setup-admin/index.html"
+  - title: Gerenciamento de armazenamento
+    url: "../storage-management-family/index.html"
+  - title: Notas de lançamento
+    url: "../console-relnotes/index.html"
+  - title: Backup e Recuperação
+    url: "../data-services-backup-recovery/index.html"
+  - title: Camadas de nuvem
+    url: "../data-services-cloud-tiering/index.html"
+  - title: Copiar e sincronizar
+    url: "../data-services-copy-sync/index.html"
+  - title: Classificação de Dados
+    url: "../data-services-classification/index.html"
+  - title: Recuperação de desastres
+    url: "../data-services-disaster-recovery/index.html"
+  - title: Resiliência ao Ransomware
+    url: "../data-services-ransomware-resilience/index.html"
+  - title: Replicação
+    url: "../data-services-replication/index.html"
+  - title: Cache de volume
+    url: "../data-services-volume-caching/index.html"
+  - title: Cargas de trabalho
+    url: "../workload-family"

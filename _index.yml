@@ -1,0 +1,92 @@
+---
+product-family:
+  title: Serviços de dados da NetApp
+  lead: Acesse os serviços de dados da NetApp por meio do NetApp Console para proteger
+    sua infraestrutura de dados.
+  summary: Acesse o NetApp Data Services por meio do console do NetApp para proteger
+    sua infraestrutura de dados.
+  sidebarlinks:
+  - title: Todos
+    tags: all
+    class: active
+  - title: Mobilidade
+    tags: mobility
+  - title: Proteção
+    tags: protection
+  - title: Governança
+    tags: governance
+  - title: Gerenciamento de armazenamento
+    tags: storage-management
+  - title: Cargas de trabalho
+    tags: migrations
+  tiles:
+  - title: Notas de lançamento
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: Saiba o que há de novo no NetApp Console e no NetApp Data Services.
+    tags: all
+  - title: Console NetApp
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: Use o NetApp Console para administrar o gerenciamento de identidade e
+      acesso, implantar agentes e muito mais.
+    tags: all,connectors,iam
+  - title: Gerenciamento de armazenamento
+    icon: "./media/icon-admin.png"
+    url: "../storage-management-family/index.html"
+    summary: Gerencie seus sistemas de armazenamento por meio do NetApp Console.
+    tags: storage-management
+  - title: Backup e Recuperação
+    icon: "./media/icon-backup.png"
+    url: "../data-services-backup-recovery/index.html"
+    summary: Proteja e recupere dados ONTAP , volumes Kubernetes e muito mais no local
+      e na nuvem.
+    tags: all,aws,azure,gcp,protection
+  - title: Copiar e sincronizar
+    icon: "./media/icon-sync.png"
+    url: "../data-services-copy-sync/index.html"
+    summary: Simplifique grandes transferências de dados entre vários tipos de armazenamento
+      com uma solução inteligente e unificada.
+    tags: all,aws,azure,gcp,mobility
+  - title: Camadas de nuvem
+    icon: "./media/icon-tiering.png"
+    url: "../data-services-tiering/index.html"
+    summary: Obtenha capacidade continuamente disponível movendo automaticamente dados
+      frios para armazenamento de objetos de baixo custo.
+    tags: all,aws,azure,gcp,mobility
+  - title: Classificação de Dados
+    icon: "./media/icon-data-sense.png"
+    url: "../data-services-classification/index.html"
+    summary: Digitalize e classifique dados para obter governança, eficiência e privacidade
+      aprimoradas.
+    tags: all,governance,aws,azure,gcp
+  - title: Recuperação de desastres
+    icon: "./media/icon-disaster-recovery.png"
+    url: "../data-services-disaster-recovery/index.html"
+    tags: all,protection
+    summary: Execute uma solução completa de proteção contra desastres para suas cargas
+      de trabalho VMware.
+  - title: Resiliência ao Ransomware
+    icon: "./media/icon-ransomware.png"
+    url: "../data-services-ransomware-protection/index.html"
+    summary: Implemente uma defesa robusta contra ransomware na camada de armazenamento
+      para proteger dados e automatizar fluxos de trabalho.
+    tags: all,protection
+  - title: Replicação
+    icon: "./media/icon-replication.png"
+    url: "../data-services-replication/index.html"
+    summary: Replique dados para backup, recuperação de desastres e migração entre
+      sistemas ONTAP locais e na nuvem.
+    tags: all,mobility
+  - title: Cache de volume
+    icon: "./media/icon-volume-caching.png"
+    url: "../data-services-volume-caching/index.html"
+    summary: Crie um volume de cache gravável para acelerar o acesso aos dados ou
+      descarregar o tráfego de volumes muito acessados.
+    tags: all,mobility
+  - title: Cargas de trabalho
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Automatize o provisionamento, a governança e o ciclo de vida do FSx para
+      ONTAP.  Explore economia de custos e gerenciamento avançado.
+    tags: all,workloads
