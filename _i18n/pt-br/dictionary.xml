@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="dc245a85dae84d483e92d2f226c67bac" category="sidebar">Acesse os serviços de dados da NetApp por meio do NetApp Console para proteger sua infraestrutura de dados.</block>
-  <block id="6d8ade1ea0a12d4d38bba059fd313d03" category="sidebar">Acesse o NetApp Data Services por meio do console do NetApp para proteger sua infraestrutura de dados.</block>
   <block id="2561e39e43a752f0567c60e0365aaeca" category="sidebar">Serviços de dados da NetApp</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todos</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Mobilidade</block>
@@ -32,4 +31,5 @@
   <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">Crie um volume de cache gravável para acelerar o acesso aos dados ou descarregar o tráfego de volumes muito acessados.</block>
   <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">Automatize o provisionamento, a governança e o ciclo de vida do FSx para ONTAP.  Explore economia de custos e gerenciamento avançado.</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copiar e sincronizar</block>
+  <block id="d53dec209f16f19a3b77bfb2774f6792" category="sidebar">Acesse os serviços de dados da NetApp por meio do console da NetApp para proteger sua infraestrutura de dados.</block>
 </blocks>

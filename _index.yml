@@ -3,8 +3,8 @@ product-family:
   title: Serviços de dados da NetApp
   lead: Acesse os serviços de dados da NetApp por meio do NetApp Console para proteger
     sua infraestrutura de dados.
-  summary: Acesse o NetApp Data Services por meio do console do NetApp para proteger
-    sua infraestrutura de dados.
+  summary: Acesse os serviços de dados da NetApp por meio do console da NetApp para
+    proteger sua infraestrutura de dados.
   sidebarlinks:
   - title: Todos
     tags: all
@@ -50,7 +50,7 @@ product-family:
     tags: all,aws,azure,gcp,mobility
   - title: Camadas de nuvem
     icon: "./media/icon-tiering.png"
-    url: "../data-services-tiering/index.html"
+    url: "../data-services-cloud-tiering/index.html"
     summary: Obtenha capacidade continuamente disponível movendo automaticamente dados
       frios para armazenamento de objetos de baixo custo.
     tags: all,aws,azure,gcp,mobility
@@ -80,7 +80,7 @@ product-family:
     tags: all,mobility
   - title: Cache de volume
     icon: "./media/icon-volume-caching.png"
-    url: "../data-services-volume-caching/index.html"
+    url: "../console-volume-caching/index.html"
     summary: Crie um volume de cache gravável para acelerar o acesso aos dados ou
       descarregar o tráfego de volumes muito acessados.
     tags: all,mobility
