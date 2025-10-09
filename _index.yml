@@ -15,6 +15,8 @@ product-family:
     tags: protection
   - title: Governança
     tags: governance
+  - title: Console NetApp
+    tags: console
   - title: Gerenciamento de armazenamento
     tags: storage-management
   - title: Cargas de trabalho
@@ -30,7 +32,7 @@ product-family:
     url: "../console-setup-admin/index.html"
     summary: Use o NetApp Console para administrar o gerenciamento de identidade e
       acesso, implantar agentes e muito mais.
-    tags: all,connectors,iam
+    tags: all,console
   - title: Gerenciamento de armazenamento
     icon: "./media/icon-admin.png"
     url: "../storage-management-family/index.html"
