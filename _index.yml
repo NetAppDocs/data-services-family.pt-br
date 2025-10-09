@@ -15,7 +15,7 @@ product-family:
     tags: protection
   - title: Governança
     tags: governance
-  - title: Console NetApp
+  - title: NetApp Console
     tags: console
   - title: Gerenciamento de armazenamento
     tags: storage-management
@@ -27,7 +27,7 @@ product-family:
     url: "../console-relnotes/index.html"
     summary: Saiba o que há de novo no NetApp Console e no NetApp Data Services.
     tags: all
-  - title: Console NetApp
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: Use o NetApp Console para administrar o gerenciamento de identidade e
@@ -90,5 +90,5 @@ product-family:
     icon: "./media/icon-workloads.png"
     url: "../workload-family"
     summary: Automatize o provisionamento, a governança e o ciclo de vida do FSx para
-      ONTAP.  Explore economia de custos e gerenciamento avançado.
+      ONTAP. Explore economia de custos e gerenciamento avançado.
     tags: all,workloads
