@@ -19,8 +19,6 @@ product-family:
     tags: console
   - title: Gerenciamento de armazenamento
     tags: storage-management
-  - title: Cargas de trabalho
-    tags: workloads
   tiles:
   - title: Notas de lançamento
     icon: "./media/icon-docs.png"
@@ -86,9 +84,3 @@ product-family:
     summary: Crie um volume de cache gravável para acelerar o acesso aos dados ou
       descarregar o tráfego de volumes muito acessados.
     tags: all,mobility
-  - title: Cargas de trabalho
-    icon: "./media/icon-workloads.png"
-    url: "../workload-family"
-    summary: Automatize o provisionamento, a governança e o ciclo de vida do FSx para
-      ONTAP. Explore economia de custos e gerenciamento avançado.
-    tags: all,workloads
